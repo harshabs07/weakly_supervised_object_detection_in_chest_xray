@@ -29,5 +29,4 @@ This project uses the Kaggle API to bypass heavy local storage requirements.
 2. Run the data extraction block in the script to pull the 5GB NIH sample directly into your environment.
 3. Execute the `train_wsrpn.py` script to initialize the EfficientNet backbone, load the custom `ChestXrayDataset` parser, and begin the training loop.
 
----
-*Developed by **Harsha Subramanian** as an Independent Computer Vision & Medical Imaging Portfolio Project.*
+
