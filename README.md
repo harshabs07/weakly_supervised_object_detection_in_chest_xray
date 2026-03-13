@@ -23,10 +23,4 @@ As seen below, the EfficientNet-B0 backbone demonstrates immediate and stable co
 
 ![Training Loss Graph](real_data_training_results.png)
 
-## 🛠️ How to Run
-This project uses the Kaggle API to bypass heavy local storage requirements. 
-1. Ensure you have your `kaggle.json` API key.
-2. Run the data extraction block in the script to pull the 5GB NIH sample directly into your environment.
-3. Execute the `train_wsrpn.py` script to initialize the EfficientNet backbone, load the custom `ChestXrayDataset` parser, and begin the training loop.
-
 
